@@ -11,5 +11,5 @@ HTML, CSS, JS and Bootstrap.
 # CONTACT
 JITENDRA KHOLIYA
 Email : jeevankholiya.98@gmail.com
-project link : 
+project link : https://github.com/jeevankholiya123/Bootstrap2
 hosted webpage link: http://firstbootstrapwebsite.unaux.com/bootstrap_project.html
